@@ -1,4 +1,4 @@
-# electricity-bill-calculator
+# Electricity-bill-calculator
 This is a C program can calculate electricity bill based on units consumed.
 
 #Author
